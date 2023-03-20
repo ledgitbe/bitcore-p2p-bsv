@@ -1,5 +1,5 @@
 {
-  "name": "@chaingraph/bitcore-p2p-cash",
+  "name": "bitcore-p2p-bsv",
   "version": "9.0.4",
   "description": "Interface to the bitcoin P2P network for bitcore",
   "author": "BitPay <dev@bitpay.com>",
